@@ -7,6 +7,9 @@ html {
   top: 100px;
   right: 0;
 }
-@media 
-/* Write your solution here */
+@media only screen and (max-width: 1196px) {
+    body {
+        background-color: lightblue;
+    }
+}
 
