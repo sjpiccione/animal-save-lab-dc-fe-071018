@@ -9,7 +9,7 @@ html {
 }
 @media only screen and (max-width: 1196px) {
     #bear {
-        float: left;
+        padding: 0 300px 0 0;
     }
 }
 
